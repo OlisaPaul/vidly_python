@@ -25,7 +25,7 @@ SECRET_KEY = '5x!+gi&xi)s)^pljw*)l4rebxgw&i8bf54c0lqr!c#@s)=b%tw'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["vidly-yfyt.onrender.com"]
 
 
 # Application definition
